@@ -15,3 +15,8 @@ Some other highlights are :
 - Higly intutive ER Diagram
 - Songs are stored in Blobs
 - Songs are played via VLC, ( # needs improvement)
+
+- A fun credit system is implemented as :
+- - You will get credits on listening a song
+- - You will get credits on adding a song
+- - You will be decredited on downloading a song
